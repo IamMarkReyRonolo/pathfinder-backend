@@ -31,7 +31,6 @@ decopatch==1.4.10
 decorator==5.1.1
 distlib==0.3.4
 dj-database-url==0.5.0
-Django==4.0.1
 dnspython==2.2.1
 docutils==0.18.1
 ecdsa==0.17.0
