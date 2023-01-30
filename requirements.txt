@@ -66,7 +66,6 @@ loguru==0.5.3
 makefun==1.14.0
 Mako==1.2.1
 MarkupSafe==2.1.1
-numpy==1.23.0
 openpyxl==3.0.10
 orjson==3.6.8
 outcome==1.1.0
