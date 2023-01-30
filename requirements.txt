@@ -39,7 +39,6 @@ et-xmlfile==1.1.0
 executing==0.8.2
 Faker==13.3.3
 fastapi==0.77.1
-FastAPI-SQLModel==0.0.1
 filelock==3.6.0
 Flask==2.0.3
 Flask-Cors==3.0.10
