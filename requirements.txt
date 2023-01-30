@@ -77,7 +77,6 @@ phonenumbers==8.12.41
 Pillow==9.0.1
 pipenv==2022.5.2
 platformdirs==2.5.2
-playwright==1.23.0
 pluggy==1.0.0
 psycopg==3.0.12
 psycopg2==2.9.3
